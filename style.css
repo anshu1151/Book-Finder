@@ -3,7 +3,7 @@ html {
 	scroll-behavior: smooth;
 }
 :root{
-	--primary-color: #fff;
+	--primary-color: #fff; 
 	--nav-color:#f4f1f1;
 	--secondary-color : #403e3e;
 	--extra-color:#efefef;
